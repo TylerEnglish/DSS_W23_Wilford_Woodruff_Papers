@@ -9,3 +9,4 @@ wordcloud
 plotly
 networkx
 scipy
+folium
